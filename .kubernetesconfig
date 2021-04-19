@@ -1,0 +1,9 @@
+{
+  "cluster-addresses": {
+    "dev": {
+      "alias": "dev",
+      "namespace": "bbc",
+      "kubeconfig": "~/.kube/config"
+    }
+  }
+}
